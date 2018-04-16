@@ -1,0 +1,22 @@
+{
+  "name": "actividad2",
+  "homepage": "https://github.com/Fermonx/GH_Actividad2",
+  "authors": [
+    "FernanMonc <fernandomdsatoutlook.com>"
+  ],
+  "description": "GH 2nd activity",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}

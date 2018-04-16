@@ -1,0 +1,29 @@
+{
+  "name": "actividad2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "bower": "^1.8.2",
+    "grunt": "^1.0.2",
+    "grunt-cli": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt-connect": "^0.2.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fermonx/GH_Actividad2.git"
+  },
+  "author": "FernandoM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fermonx/GH_Actividad2/issues"
+  },
+  "homepage": "https://github.com/Fermonx/GH_Actividad2#readme"
+}
